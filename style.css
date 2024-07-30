@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+}
+.image{
+    height: 260px;   
+}
+.box{
+    height: 500px;
+    width: 280px;
+    box-shadow: 0 6px 10px gray;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+   
+}
